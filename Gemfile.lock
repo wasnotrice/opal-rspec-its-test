@@ -5,7 +5,7 @@ GEM
     hike (1.2.3)
     json (1.8.1)
     multi_json (1.10.1)
-    opal (0.6.0)
+    opal (0.6.2)
       source_map
       sprockets
     opal-rspec (0.3.0.beta3)
@@ -40,7 +40,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  opal (= 0.6.0)
+  opal (= 0.6.2)
   opal-rspec (= 0.3.0.beta3)
   rake
   rspec (= 3.0.0.beta2)
