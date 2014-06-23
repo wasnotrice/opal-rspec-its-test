@@ -1,3 +1,5 @@
+require 'rspec/its'
+
 describe "its syntax" do
   subject { [1, 2, 3] }
 
